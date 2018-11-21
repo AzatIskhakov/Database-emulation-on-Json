@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "Holy Bible",
+        "edition": 1,
+        "leasing": 10
+    },
+    {
+        "id": 1,
+        "name": "Java programming",
+        "edition": 3,
+        "leasing": 5
+    },
+    {
+        "id": 2,
+        "name": "Python for beginners",
+        "edition": 4,
+        "leasing": 7
+    },
+    {
+        "id": 3,
+        "name": "Spring for professionals",
+        "edition": 2,
+        "leasing": 20
+    },
+    {
+        "id": 4,
+        "name": "Hibernate for experts",
+        "edition": 3,
+        "leasing": 15
+    },
+    {
+        "id": 5,
+        "name": "Just Git",
+        "edition": 8,
+        "leasing": 1
+    },
+    {
+        "id": 6,
+        "name": "Maven. Taste magic!",
+        "edition": 7,
+        "leasing": 7
+    },
+    {
+        "id": 7,
+        "name": "Apache Tomcat",
+        "edition": 1,
+        "leasing": 2
+    },
+    {
+        "id": 8,
+        "name": "Introduction to Java",
+        "edition": 8,
+        "leasing": 10
+    },
+    {
+        "id": 10,
+        "name": "OpenCV",
+        "edition": 3,
+        "leasing": 12
+    }
+]

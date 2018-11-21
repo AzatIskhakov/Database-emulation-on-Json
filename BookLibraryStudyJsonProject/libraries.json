@@ -1,0 +1,17 @@
+[
+    {
+        "id": 0,
+        "name": "Central Library",
+        "city": "Washington"
+    },
+    {
+        "id": 1,
+        "name": "Lenin's Library",
+        "city": "Moscow"
+    },
+    {
+        "id": 2,
+        "name": "Lobachevsky Library",
+        "city": "Nizhny Novgorod"
+    }
+]
